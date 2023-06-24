@@ -5,7 +5,6 @@
 *
 * Return: 1 if upper and 0 if it isnt
 */
-
 int _isupper(int c)
 {
 if (c >= 65 && c <= 90)
